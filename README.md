@@ -1,2 +1,2 @@
 # Sample_Project
-Test projects 
+Test project
