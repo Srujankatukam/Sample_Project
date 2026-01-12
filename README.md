@@ -1,3 +1,3 @@
 # Sample_Project
-Test project
+Test projects
 
