@@ -1,2 +1,2 @@
-nj# Sample_Project
+# Sample_Project
 Test project
