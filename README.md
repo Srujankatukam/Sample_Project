@@ -1,6 +1,2 @@
-nj# Sample_Project
+# Sample_Project
 Test projects
-
-bgb
-nj
-nj
